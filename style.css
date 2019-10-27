@@ -170,6 +170,12 @@ footer img {
     margin-bottom: 89.91px;
 }
 
+img[alt="play"]{
+    background: #000000;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
 img[alt="play"]:hover {
     background: #000000;
     border: 2px solid #FFFFFF;
